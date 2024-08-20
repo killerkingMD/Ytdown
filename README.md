@@ -74,6 +74,13 @@ Navegue até o diretório onde o script está localizado:
 Execute o script com o comando:
 
 `python yt.py`
+***
+
+***
+
+Autor
+Desenvolvedor: `killerkingMD👑`
+Contato: `paulohacker40@gmail.com`
 
 
 
