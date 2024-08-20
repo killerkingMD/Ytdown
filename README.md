@@ -54,3 +54,27 @@ pip install yt-dlp
 pip install rich
 pkg install ffmpeg
 termux-setup-storage`
+***
+***
+
+Modo de Usar
+
+
+Clone o repositório, copie o link e cole no termux: `git clone https://github.com/killerkingMD/Ytdown.git`
+***
+
+***
+Navegue até o diretório onde o script está localizado:
+
+`cd Ytdown`
+***
+
+***
+
+Execute o script com o comando:
+
+`python yt.py`
+
+
+
+
