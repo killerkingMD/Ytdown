@@ -49,11 +49,8 @@ FFmpeg: `Software para manipulação de multimídia (necessário para conversão
 Instalação dos Pré-requisitos
 Use os seguintes comandos para instalar as dependências necessárias no Termux:
 
-`pkg install python
-pip install yt-dlp
-pip install rich
-pkg install ffmpeg
-termux-setup-storage`
+`pkg install python &&
+ pip install yt-dlp && pip install rich &&  pkg install ffmpeg  && termux-setup-storage`
 ***
 ***
 
